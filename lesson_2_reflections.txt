@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+#Well, it sets up the metadata around the respository, and the directory it works within.(?)
+

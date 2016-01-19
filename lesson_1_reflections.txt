@@ -1,0 +1,4 @@
+So this is where the reflections go...
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+- Well, it showed only the changed lines, (in context), and it also highlighted the changed lines specifically
