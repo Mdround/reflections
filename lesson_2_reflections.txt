@@ -1,3 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 #Well, it sets up the metadata around the respository, and the directory it works within.(?)
 
+How can you use the staging area to make sure you have one commit per logical change?
+- So, you could use $git diff --staged
+- There you should only see one logical change at a time. Then only commit that one?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Useful for experiments, and for splitting projects up into independent tasks, for later merging?
+
